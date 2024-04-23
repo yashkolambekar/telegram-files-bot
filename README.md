@@ -1,6 +1,6 @@
-# IDOLCS API
+# Telegram files bot
 
-Official repostiory for api.idolcs.com
+Store files upto 20MB on a telegram server
 
 ### Steps to run
 
